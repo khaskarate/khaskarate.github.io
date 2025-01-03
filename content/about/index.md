@@ -31,7 +31,3 @@ Annandale, VA 22003
 khaskarate@gmail.com  
 www.khaskarate.com
 
-### Falls Church Location
-James Lee Rec Center  
-Falls Church, VA 22003  
-
