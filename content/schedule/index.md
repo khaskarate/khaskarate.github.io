@@ -11,23 +11,18 @@ The original karate school was esablished in Annandale, Virginia, in 2016, and w
 
    Day | Time | Notes
 --------|------|------
-Monday, Wednesday (Annandale, VA) | 5:30 - 6:10 PM | 10 and under, beginner class
-Monday, Wednesday (Annandale, VA) | 6:15 - 7:15 PM | Rank belt class, family class
-Tuesday, Thursday (Anndandale, VA) | 6:15 PM - 7:15 PM | Rank belt class, family class
+Monday, Wednesday | 5:30 - 6:10 PM | 10 and under, beginner class
+Monday, Wednesday | 6:15 - 7:15 PM | Rank belt class
+Monday, Wednesday | 7:30: - 8:30 PM | 13 and up
 
 
    Day | Time | Notes
 --------|------|------
 Second Saturday of each month ( Annandale, VA) | 2:15 PM - 3:15 PM | Demonstration and performance practice
 
-Classes on __Mondays and Wednesdays__ meet at:  
 __Kha's Karate School__  
 __6930 Little Rover Turnpike__  
 __Annandale, VA 22003__  
-
-Classes on __Tuesdays and Thursdays__ meet at:  
-__James Lee Commununity Center__  
-__Falls Church, VA__  
 
 - Emergency closings: will follow that of Fairfax County Public Schools. 
 - FCPS Spring Break, FCPS Winter Break, FCPS holidays, government holidays: no class
@@ -40,17 +35,44 @@ Fri, Sat, Sun | upon request, subject to availability
 
 ###  Tests
 #### Rank belt tests
-The second Saturday in January.  
-The second Saturday in April.  
-The second Saturday in July.  
-The second Saturday in October.  
-(subject to change)  
+(subject to change) 
+Date | Location | Test
+Sat Feb 8, 2025 | Annandale, VA | Rank Belt Test
+Sat May TBD, 2025 | Annandale, VA | Black belt test
+Saturday June 7, 2025 | Annandale, VA | Rank Belt Test
+Sat October 11, 2025 | Annandale, VA | Rank Belt Test
+Sat Nov TBD, 2025 | Richmond, VA | Black belt test 
 
 ### Black belt tests and practices  
-As a part of the International Silkisondan Karate Association, Kha’s Karate participates in semi-annual black belt promotion tests which are generall held in Richond, Virginia. Dates will be announced as condidates are reviewed and approved for promotion. Black belt tests are closed tests and by invitation. Monthly black belt classes are held in Richmond, Virginia, on or around the first Thursday of each month. Brown belts and up are invited to participate in black belt classes.  
+As a part of the International Silkisondan Karate Association, Kha’s Karate participates in semi-annual black belt promotion tests which are generall held in Richond, Virginia. Dates will be announced as condidates are reviewed and approved for promotion. Black belt tests are closed tests and by invitation.
 
 # Important Dates 
 #### This section will be updated regularly.
 
    Date | Status | Notes
 --------|------|----
+Sat Jan 4, 2025 | Closed | Weather
+Sat Jan 18, 2025 | Closed | Holiday
+Mon Jan 20, 2025 | Closed | Holiday
+Sat Feb 8, 2025 | Open | Rank Belt Test
+Sat Feb 15, 2025 | Closed | Holiday
+Mon Feb 17, 2025 | Closed | Holiday
+April 12-19, 2025 | Closed | FCPS spring break
+Sat May TBD, 2025 | Closed | Black belt test
+Sat May 24, 2025 | Closed | Holiday
+Mon May 26, 2025 | Closed | Holiday
+Saturday June 7, 2025 | Open | Rank Belt Test
+Fri June 13, 2025  | Closed | Holiday
+Mon June 16, 2025  | Closed | Holiday
+Sat July 5, 2025 | Closed | Holiday
+Sat August 30, 2025 | Closed | Holiday
+Mon September 1, 2025 | Closed | Holiday
+Sat September 27, 2025 | Closed | Co Que's birthday
+Mon September 29, 2025 | Closed | Co Que's birthday
+Sat October 11, 2025 | Open | Rank Belt Test
+Mon October 13, 2025 | Closed | FCPS holiday
+Sat Nov TBD, 2025 | Closed | Black belt test
+Mon November 3, 2025 | Closed | FCPS holiday
+November 26-29, 2025 | Closed | Holiday
+December 20, 2025 - January 3, 2026 | Closed | Winter break
+
