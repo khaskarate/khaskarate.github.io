@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dogs on Xe Xin So</title>
+    <link>https://xexinso.com/tags/dogs/</link>
+    <description>Recent content in Dogs on Xe Xin So</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2017 11:15:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://xexinso.com/tags/dogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My dogs</title>
+      <link>https://xexinso.com/gallery/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://xexinso.com/gallery/chapter-5/</guid>
+      <description>Gotta have that gallery for your pets</description>
+    </item>
+    
+  </channel>
+</rss>

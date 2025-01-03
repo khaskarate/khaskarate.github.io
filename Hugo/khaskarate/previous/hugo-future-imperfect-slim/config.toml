@@ -1,0 +1,249 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+baseurl                 = "https://khaskarate.com/"
+DefaultContentLanguage  = "en"
+title                   = "www.khaskarate.com"
+theme                   = "hugo-future-imperfect-slim"
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "blog"
+  readingTime           = true
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  hideEmptyStats        = false
+
+  [params.meta]
+    description         = "www.khaskarate.com - Traditional martial arts school in Northern Virginia"
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "Kha's Karate"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = true
+
+  [params.intro]
+    header                = "Body Mind Spirit"
+    paragraph             = "International Silkisondan Association</a>."
+    rssIntro              = true
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "img/2021/Silkisondan-Kanji.jpg"
+      shape               = "circle"
+      width               = ""
+      alt                 = "Hugo Future Imperfect Slim"
+
+  [params.sidebar]
+    about               = "Kha's karate is located in Annandale, Virginia. We welcome all levels and  ages. <p>This theme was developed for Hugo static site generator.<p>This site is 100% hosted in AWS."
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = true
+    socialFooter        = true
+
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = "" 
+    theme               = "github-light"
+
+  [params.staticman]
+    enabled             = true
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = ""
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "about"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Blog"
+    identifier        = "blog"
+    url               = "blog"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Categories"
+    identifier        = "categories"
+    url               = "categories"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 5
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "contact"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 6
+
+[Languages]
+
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+
+  [Languages.de]
+    LanguageCode        = "de"
+    LanguageName        = "Deutsche"
+    weight              = 5
+
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Española"
+    weight              = 6
+
+  [Languages.zh-CN]
+    LanguageCode        = "zh-CN"
+    LanguageName        = "中文 (简体)"
+    weight              = 7
+
+  [Languages.zh-TW]
+    LanguageCode        = "zh-TW"
+    LanguageName        = "中文 (正體)"
+    weight              = 8
+
+  [Languages.ja]
+    LanguageCode        = "ja"
+    LanguageName        = "日本語"
+    weight              = 9
+
+  [Languages.nl]
+    LanguageCode        = "nl"
+    LanguageName        = "Nederlands"
+    weight              = 10
+
+    [[Languages.nl.menu.main]]
+      name              = "Home"
+      identifier        = "home"
+      url               = ""
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.nl.menu.main]]
+      name              = "Over"
+      identifier        = "about"
+      url               = "about"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.nl.menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "blog"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.nl.menu.main]]
+      name              = "Categorieën"
+      identifier        = "categories"
+      url               = "categories"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.nl.menu.main]]
+      name              = "Contact"
+      identifier        = "contact"
+      url               = "contact"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+
+[social]
+  # Coding Communities
+  github                = "khaskarate"
+  gitlab                = ""
+  stackoverflow         = "" # User Number
+  bitbucket             = ""
+  jsfiddle              = ""
+  codepen               = ""
+  # Visual Art Communities
+  deviantart            = ""
+  flickr                = "khaskarate"
+  behance               = ""
+  dribbble              = ""
+  # Publishing Communities
+  wordpress             = ""
+  medium                = ""
+  # Professional/Business Oriented Communities
+  linkedin              = "kha-nguyen-12aa86211"
+  linkedin_company      = ""
+  foursquare            = ""
+  xing                  = ""
+  slideshare            = ""
+  # Social Networks
+  facebook              = "khaskarate"
+  googleplus            = ""
+  reddit                = ""
+  quora                 = ""
+  youtube               = ""
+  vimeo                 = ""
+  whatsapp              = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat              = ""
+    qq                  = "" # User ID Number
+  instagram             = "khaskarate"
+  tumblr                = ""
+  twitter               = "KhaNguy53569417"
+  strava                = ""
+  skype                 = ""
+  snapchat              = ""
+  pinterest             = ""
+  telegram              = ""
+  vine                  = ""
+  googlescholar         = ""
+  orcid                 = ""
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
+  # Email
+  email                 = "khaskarate@gmail.com"

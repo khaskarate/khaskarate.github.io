@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Xe Xin So</title>
+    <link>https://xexinso.com/aws/</link>
+    <description>Recent content in AWS on Xe Xin So</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://xexinso.com/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://xexinso.com/aws/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-6/</guid>
+      <description>Ansible</description>
+    </item>
+    
+    <item>
+      <title>AWS Certifications</title>
+      <link>https://xexinso.com/aws/chapter-10/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-10/</guid>
+      <description>AWS Certs.
+Certified Solutions Architect Assocciate. This was actually an easy cert. Whoever says that you need hands on is probably drinking too much kool aid. Just get udemy, acloudguru subscription and do the practice exams.</description>
+    </item>
+    
+    <item>
+      <title>Cloudformation</title>
+      <link>https://xexinso.com/aws/chapter-11/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-11/</guid>
+      <description>Cloudformation</description>
+    </item>
+    
+    <item>
+      <title>Configuration management</title>
+      <link>https://xexinso.com/aws/chapter-8/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-8/</guid>
+      <description>Configuration management</description>
+    </item>
+    
+    <item>
+      <title>EC2</title>
+      <link>https://xexinso.com/aws/chapter-12/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-12/</guid>
+      <description>EC2</description>
+    </item>
+    
+    <item>
+      <title>ECS</title>
+      <link>https://xexinso.com/aws/chapter-15/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-15/</guid>
+      <description>ECS</description>
+    </item>
+    
+    <item>
+      <title>IAM</title>
+      <link>https://xexinso.com/aws/chapter-14/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-14/</guid>
+      <description>stuff about IAM</description>
+    </item>
+    
+    <item>
+      <title>Keeping up with AWS</title>
+      <link>https://xexinso.com/aws/chapter-16/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-16/</guid>
+      <description>Holy cow. How do people keep up with all the new offerings?</description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://xexinso.com/aws/chapter-9/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-9/</guid>
+      <description>Linux</description>
+    </item>
+    
+    <item>
+      <title>Puppet</title>
+      <link>https://xexinso.com/aws/chapter-7/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-7/</guid>
+      <description>puppet</description>
+    </item>
+    
+    <item>
+      <title>RDS</title>
+      <link>https://xexinso.com/aws/chapter-13/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-13/</guid>
+      <description>My thoughts on RDS</description>
+    </item>
+    
+    <item>
+      <title>CIS</title>
+      <link>https://xexinso.com/aws/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-5/</guid>
+      <description>CIS</description>
+    </item>
+    
+    <item>
+      <title>Packer</title>
+      <link>https://xexinso.com/aws/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-4/</guid>
+      <description>Packer</description>
+    </item>
+    
+    <item>
+      <title>Alexa</title>
+      <link>https://xexinso.com/aws/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-3/</guid>
+      <description>Alexa</description>
+    </item>
+    
+    <item>
+      <title>Reinvent</title>
+      <link>https://xexinso.com/aws/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-2/</guid>
+      <description>AWS reinvent</description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://xexinso.com/aws/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-1/</guid>
+      <description>Need a title here   Terraform</description>
+    </item>
+    
+  </channel>
+</rss>

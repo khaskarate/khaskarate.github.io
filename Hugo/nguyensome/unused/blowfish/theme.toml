@@ -1,0 +1,21 @@
+# Blowfish theme for Hugo
+
+name = "Nguyensome"
+license = "MIT"
+licenselink = "https://github.com/nunocoracao/blowfish/blob/main/LICENSE"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+homepage = "https://github.com/nunocoracao/blowfish/"
+demosite = "https://blowfish.page/"
+
+tags = ["blog", "minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
+features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
+
+[author]
+  name = "Kha Nguyen"
+  homepage = "https://nguyensome.com/"
+
+[original]
+  author = "Kha Nguyen"
+  homepage = "https://nguyensome.com/"
+  repo = "https://github.com/jpanther/congo"

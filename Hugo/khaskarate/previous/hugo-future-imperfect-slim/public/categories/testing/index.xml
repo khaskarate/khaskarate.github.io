@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>testing on www.khaskarate.com</title>
+    <link>https://khaskarate.com/categories/testing/</link>
+    <description>Recent content in testing on www.khaskarate.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://khaskarate.com/categories/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Megan Nguyen - Black belt test May 2023</title>
+      <link>https://khaskarate.com/blog/savethedatemegan/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaskarate.com/blog/savethedatemegan/</guid>
+      <description>May 27, 2023 Megan Nguyen: Tessting to 1st Dan Saturday May 27, 2023 10:00 AM Atlee Rec Center Atlee Station Road Mechanicsville, VA Everyone is invited to attend. Brown belts are invited to attend in uniform.</description>
+    </item>
+    
+    <item>
+      <title>Sarah Nguyen - Black belt test May 2023</title>
+      <link>https://khaskarate.com/blog/savethedatesarah/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaskarate.com/blog/savethedatesarah/</guid>
+      <description>May 27, 2023 Sarah Nguyen: Tessting to black belt Saturday May 27, 2023 10:00 AM Atlee Rec Center Atlee Station Road Mechanicsville, VA Everyone is invited to attend. Brown belts are invited to attend in uniform.</description>
+    </item>
+    
+  </channel>
+</rss>

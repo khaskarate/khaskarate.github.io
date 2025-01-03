@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Xe Xin So</title>
+    <link>https://xexinso.com/tags/linux/</link>
+    <description>Recent content in Linux on Xe Xin So</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://xexinso.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux</title>
+      <link>https://xexinso.com/aws/chapter-9/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://xexinso.com/aws/chapter-9/</guid>
+      <description>Linux</description>
+    </item>
+    
+  </channel>
+</rss>

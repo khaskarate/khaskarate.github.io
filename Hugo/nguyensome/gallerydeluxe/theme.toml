@@ -1,0 +1,12 @@
+
+name        = "Nguyensome"
+license     = "MIT"
+licenselink = "https://github.com/bep/gallerydeluxe/blob/main/LICENSE"
+description = "Fast gallery suitable for lots of images."
+homepage    = "https://github.com/bep/gallerydeluxe"
+demosite    = "https://nguyensome.com/"
+tags        = ["Gallery", "Responsive"]
+min_version = "0.90.0"
+[author]
+  name     = "nguyensome.com"
+  homepage = "http://bep.is"

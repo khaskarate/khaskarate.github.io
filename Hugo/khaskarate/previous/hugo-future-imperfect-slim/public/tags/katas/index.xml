@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katas on www.khaskarate.com</title>
+    <link>https://khaskarate.com/tags/katas/</link>
+    <description>Recent content in Katas on www.khaskarate.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://khaskarate.com/tags/katas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of katas</title>
+      <link>https://khaskarate.com/blog/katas/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaskarate.com/blog/katas/</guid>
+      <description>Katas Testing to Kata Yellow Chon Ji Orange Dan Gun Green Dan Gun Adv Green Do San Blue Do San Adv Blue Yul Gok Brown Yul Gok Int Brown Toi Gye Adv Brown Hwa Rang Black Belt Choong Moo
+Baossai 1st dan Tekki Shodan
+En Pi 2nd dan Kwang Gae 3rd dan Po Eun 4th dan Gae Baek 5th dan Ko Dang Demonstration Kata Paka </description>
+    </item>
+    
+    <item>
+      <title>One Step Sparring</title>
+      <link>https://khaskarate.com/blog/onestepsparring/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaskarate.com/blog/onestepsparring/</guid>
+      <description>One step sparring Placeholder</description>
+    </item>
+    
+  </channel>
+</rss>
