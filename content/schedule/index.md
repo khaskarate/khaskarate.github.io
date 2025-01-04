@@ -6,8 +6,6 @@ layout = "Schedule"
 +++
 
 # Class Schedule 
-The original karate school was esablished in Annandale, Virginia, in 2016, and we have since been fortunate to be able to expand the class size and allow for practice at the location in Falls Church. I will continue to support the original location. I encourage all students to begin attending the Falls Church location, which is where I plan to focus my efforts. Pleae contact me directly if you have any questions about this.
-
 
    Day | Time | Notes
 --------|------|------
@@ -19,10 +17,6 @@ Monday, Wednesday | 7:30: - 8:30 PM | 13 and up
    Day | Time | Notes
 --------|------|------
 Second Saturday of each month ( Annandale, VA) | 2:15 PM - 3:15 PM | Demonstration and performance practice
-
-__Kha's Karate School__  
-__6930 Little Rover Turnpike__  
-__Annandale, VA 22003__  
 
 - Emergency closings: will follow that of Fairfax County Public Schools. 
 - FCPS Spring Break, FCPS Winter Break, FCPS holidays, government holidays: no class
