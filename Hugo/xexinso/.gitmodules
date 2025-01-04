@@ -1,6 +1,0 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
-[submodule "themes/future-imperfect-slim"]
-	path = themes/future-imperfect-slim
-	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
