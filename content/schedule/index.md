@@ -54,6 +54,7 @@ As a part of the International Silkisondan Karate Association, Kha’s Karate pa
 Sat Jan 4, 2025 | Closed | Weather
 Sat Jan 18, 2025 | Closed | Holiday
 Mon Jan 20, 2025 | Closed | Holiday
+Wed Jan 29, 2025 | Closed | FCPS holiday
 Sat Feb 8, 2025 | Open | Rank Belt Test
 Sat Feb 15, 2025 | Closed | Holiday
 Mon Feb 17, 2025 | Closed | Holiday
