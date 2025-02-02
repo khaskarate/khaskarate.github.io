@@ -22,7 +22,7 @@ $60 per month for each additional member
 Annual membership fee is waived if tuition is paid annually.
 
 ### Payment
-Tuition will be prorated for students enrolling partway through each paying period. We accept cash, check, venmo, paypal, zelle.  
+Students can elect to sign up at any time. If training begins partway through the month, payment will be due the beginning of the following month, and subsequent beginning of the month(s) thereafter. We accept cash, check, venmo, paypal, zelle.  
 Please make checks payable to Kha's Karate School.
 
 ### uniforms and equipment
