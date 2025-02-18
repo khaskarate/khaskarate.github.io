@@ -9,9 +9,10 @@ layout = "Schedule"
 
    Day | Time | Notes
 --------|------|------
-Monday, Wednesday | 5:30 - 6:10 PM | 10 and under, beginner class
-Monday, Wednesday | 6:15 - 7:15 PM | Rank belt class
-Monday, Wednesday | 7:30: - 8:30 PM | 13 and up
+Monday, Wednesday | 5:30 - 6:20 PM | Rank belt class
+Monday, Wednesday | 6:30 - 7:30 PM | Rank belt class
+Saturday | 1:00 - 2:00 PM | Rank belt class
+Saturday | 2:00 - 3:00 PM | open practice
 
 
    Day | Time | Notes
@@ -31,10 +32,10 @@ Fri, Sat, Sun | upon request, subject to availability
 #### Rank belt tests
 (subject to change) 
 Date | Location | Test
-Sat Feb 8, 2025 | Annandale, VA | Rank Belt Test
+Sat Feb TBC, 2025 | Annandale, VA | Rank Belt Test
 Sat May TBD, 2025 | Annandale, VA | Black belt test
-Saturday June 7, 2025 | Annandale, VA | Rank Belt Test
-Sat October 11, 2025 | Annandale, VA | Rank Belt Test
+Saturday June TBD, 2025 | Annandale, VA | Rank Belt Test
+Sat October TBD, 2025 | Annandale, VA | Rank Belt Test
 Sat Nov TBD, 2025 | Richmond, VA | Black belt test 
 
 ### Black belt tests and practices  
@@ -45,10 +46,7 @@ As a part of the International Silkisondan Karate Association, Kha’s Karate pa
 
    Date | Status | Notes
 --------|------|----
-Sat Feb 1, 2025 | Closed | Lac Viet Performance
 Sat Feb TBD, 2025 | Open | Rank Belt Test
-Sat Feb 15, 2025 | Closed | Holiday
-Mon Feb 17, 2025 | Closed | Holiday
 April 12-19, 2025 | Closed | FCPS spring break
 Sat May TBD, 2025 | Closed | Black belt test
 Sat May 24, 2025 | Closed | Holiday
