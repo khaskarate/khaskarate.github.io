@@ -12,7 +12,7 @@ layout = "Schedule"
 Monday, Wednesday | 5:30 - 6:20 PM | Rank belt class
 Monday, Wednesday | 6:30 - 7:30 PM | Rank belt class
 Saturday | 1:00 - 2:00 PM | Rank belt class
-Saturday | 2:00 - 3:00 PM | open practice
+2nd & 4th Saturday of each month | 2:00 - 3:00 PM | open practice
 
 
    Day | Time | Notes
