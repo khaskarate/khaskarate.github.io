@@ -46,20 +46,18 @@ As a part of the International Silkisondan Karate Association, Kha’s Karate pa
 
    Date | Status | Notes
 --------|------|----
-March 31, 2025 | Closed | No class
-April 1, 2025 | Closed | No class
-April 12-19, 2025 | Closed | FCPS spring break
-Sat May TBD, 2025 | Closed | Black belt test
 Sat May 24, 2025 | Closed | Holiday
 Mon May 26, 2025 | Closed | Holiday
-Saturday June 7, 2025 | Open | Rank Belt Test
+Sat May 31, 2025 | Closed | other
+Saturday June TBD, 2025 | Open | Rank Belt Test
 Fri June 13, 2025  | Closed | Holiday
 Mon June 16, 2025  | Closed | Holiday
+Sat July TBD, 2025 | Closed | Black belt test
 Sat July 5, 2025 | Closed | Holiday
 Sat August 30, 2025 | Closed | Holiday
 Mon September 1, 2025 | Closed | Holiday
-Sat September 27, 2025 | Closed | Co Que's birthday
-Mon September 29, 2025 | Closed | Co Que's birthday
+Sat September 27-29, 2025 | Closed | Co Que's birthday
+Sat October 4, 2025 | Closed | other
 Sat October 11, 2025 | Open | Rank Belt Test
 Mon October 13, 2025 | Closed | FCPS holiday
 Sat Nov TBD, 2025 | Closed | Black belt test
