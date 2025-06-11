@@ -32,8 +32,6 @@ Fri, Sat, Sun | upon request, subject to availability
 #### Rank belt tests
 (subject to change) 
 Date | Location | Test
-Sat Feb TBC, 2025 | Annandale, VA | Rank Belt Test
-Sat May TBD, 2025 | Annandale, VA | Black belt test
 Saturday June TBD, 2025 | Annandale, VA | Rank Belt Test
 Sat October TBD, 2025 | Annandale, VA | Rank Belt Test
 Sat Nov TBD, 2025 | Richmond, VA | Black belt test 
@@ -46,20 +44,19 @@ As a part of the International Silkisondan Karate Association, Kha’s Karate pa
 
    Date | Status | Notes
 --------|------|----
-Sat May 24, 2025 | Closed | Holiday
-Mon May 26, 2025 | Closed | Holiday
-Sat May 31, 2025 | Closed | other
-Saturday June TBD, 2025 | Open | Rank Belt Test
-Fri June 13, 2025  | Closed | Holiday
-Mon June 16, 2025  | Closed | Holiday
+Fri June 13, 2025  | Closed | other
+Sat June 14, 2025  | Closed | anphogettable performance
 Sat July TBD, 2025 | Closed | Black belt test
+June TBD, 2025 | Open | Rank Belt Test
 Sat July 5, 2025 | Closed | Holiday
-Sat August 30, 2025 | Closed | Holiday
+Fri August 29, 2025 | Closed | other
+Sat August 30, 2025 | Closed | other
 Mon September 1, 2025 | Closed | Holiday
-Sat September 27-29, 2025 | Closed | Co Que's birthday
+Sat September 27-29, 2025 | Closed | other
 Sat October 4, 2025 | Closed | other
 Sat October 11, 2025 | Open | Rank Belt Test
 Mon October 13, 2025 | Closed | FCPS holiday
+Mon October 20, 2025 | Closed | FCPS holiday
 Sat Nov TBD, 2025 | Closed | Black belt test
 Mon November 3, 2025 | Closed | FCPS holiday
 November 26-29, 2025 | Closed | Holiday
