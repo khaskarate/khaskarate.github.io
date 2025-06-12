@@ -1,6 +1,6 @@
 +++
-title = "In memory of Dao Thi Chinh"
-description = "In memory of Dao Thi Chinh"
+title = "In memory of Nguyen Van Thanh"
+description = "In memory of Nguyen Van Thanh"
 author = "Silkisondan Karate"
 date = "2025-06-15"
 tags = ["thoughts", "karate", "blog"]
